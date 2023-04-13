@@ -675,7 +675,7 @@ h1 {
   outline-offset: 5px;
 }
 
-.footer-social-media__vk {
+.footer-social-media__in {
   margin-right: 22px;
   width: 60px;
   height: 60px;
@@ -684,15 +684,15 @@ h1 {
   background-repeat: no-repeat;
 }
 
-.footer-social-media__vk:active svg path {
+.footer-social-media__in:active svg path {
   fill: #e1670e;
 }
 
-.footer-social-media__vk:hover svg path {
+.footer-social-media__in:hover svg path {
   fill: #ff9900;
 }
 
-.footer-social-media__vk:focus {
+.footer-social-media__in:focus {
   outline: 2px solid #ff9900;
   outline-offset: 5px;
 }
