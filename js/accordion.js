@@ -1,11 +1,3 @@
-// ---- ---- Const ---- ---- //
-// let faqSection = document.querySelector('.section__item'),
-//   faqSectionBtn = document.querySelector('.faq-section__question');
-
-
-
-// faqSection.addEventListener('click', () => {
-//   faqSectionBtn.classList.add('is-acttive');
 
 document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.faq-section__item').forEach((item, index) => {
